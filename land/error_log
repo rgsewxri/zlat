@@ -1,0 +1,14 @@
+[23-Oct-2019 15:09:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function socket_create() in /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php:26
+Stack trace:
+#0 /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php(30): checkCache()
+#1 /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php(86): sendRequest(Array)
+#2 /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php(157): isBlocked()
+#3 {main}
+  thrown in /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php on line 26
+[23-Oct-2019 15:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function socket_create() in /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php:26
+Stack trace:
+#0 /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php(30): checkCache()
+#1 /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php(86): sendRequest(Array)
+#2 /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php(157): isBlocked()
+#3 {main}
+  thrown in /home/unqlp45jmx5r/public_html/welcome/1/land/thanks.php on line 26
